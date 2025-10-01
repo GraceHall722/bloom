@@ -36,7 +36,7 @@
         "@types/webpack-dev-server": "4.7.2",
         "buffer": "6.0.3",
         "classic-level": "1.4.1",
-        "dotenv": "16.4.5",
+        "dotenv": "17.2.3",
         "electron-dl": "4.0.0",
         "electron-log": "5.2.0",
         "electron-updater": "6.3.4",
